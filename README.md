@@ -11,10 +11,10 @@ This project involves:
 * a single hidden layer
 * a backward pass that correctly updates weights
 
-Correctly choosing: 
+**Correctly choosing**: 
 * an appropriate learning rate 
 * number of output nodes
 
-Attaining:
+**Attaining**:
 * training loss below 0.09
 * validation loss below 0.18
