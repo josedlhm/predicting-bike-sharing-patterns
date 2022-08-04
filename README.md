@@ -5,15 +5,15 @@ First project in Udacity's Deep Learning Nano Degree. It is an exercise in imple
 
 This project involves: 
 
-Implementing a:
-* sigmoid function
-* forward pass 
+**Implementing**:
+* a sigmoid function
+* a forward pass 
 * a single hidden layer
 * a backward pass that correctly updates weights
 
 Correctly choosing: 
-* learning rate 
-*  number of output nodes
+* an appropriate learning rate 
+* number of output nodes
 
 Attaining:
 * training loss below 0.09
