@@ -1,7 +1,10 @@
-# predicting-bike-sharing-patterns
+# Predicting-Bike-Sharing-Patterns
+
+## Summary
 First project in Udacity's Deep Learning Nano Degree. It is an exercise in implementing a neural network 'from scratch,' without relying on PyTorch or TensorFlow. 
 
 ---
+## Contents 
 
 This project involves: 
 
